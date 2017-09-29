@@ -177,9 +177,7 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: grey;
 }
-.form{
-  background: grey;
-}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
