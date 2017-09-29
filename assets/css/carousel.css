@@ -19,7 +19,7 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  bottom: 10rem;
+  bottom: 5rem;
   color: black;
 }
 
@@ -117,7 +117,9 @@ body {
   line-height: 1;
   letter-spacing: -.05rem;
 }
-
+th, td {
+  padding: 15px;
+}
 .holder {
   width: 100px;
   margin: 0px;
